@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29306.81
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paint", "Paint\Paint.csproj", "{5EF42548-27A0-4F70-A570-6E3C8D2931CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DrawClasses", "DrawClasses\DrawClasses.csproj", "{E0860A7C-0748-495D-B8E9-C825CD26BD07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GEditor", "GEditor\GEditor.csproj", "{31384BAC-B3E1-45BE-B365-0562913ECA26}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5EF42548-27A0-4F70-A570-6E3C8D2931CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EF42548-27A0-4F70-A570-6E3C8D2931CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EF42548-27A0-4F70-A570-6E3C8D2931CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EF42548-27A0-4F70-A570-6E3C8D2931CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E0860A7C-0748-495D-B8E9-C825CD26BD07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E0860A7C-0748-495D-B8E9-C825CD26BD07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E0860A7C-0748-495D-B8E9-C825CD26BD07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E0860A7C-0748-495D-B8E9-C825CD26BD07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{31384BAC-B3E1-45BE-B365-0562913ECA26}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{31384BAC-B3E1-45BE-B365-0562913ECA26}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{31384BAC-B3E1-45BE-B365-0562913ECA26}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{31384BAC-B3E1-45BE-B365-0562913ECA26}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A71875-1942-47F2-92DC-FF2C86FC8847}
+	EndGlobalSection
+EndGlobal

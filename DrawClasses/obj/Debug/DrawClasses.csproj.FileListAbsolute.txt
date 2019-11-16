@@ -1,0 +1,8 @@
+E:\ISM\Paint\DrawClasses\bin\Debug\DrawClasses.dll
+E:\ISM\Paint\DrawClasses\bin\Debug\DrawClasses.pdb
+E:\ISM\Paint\DrawClasses\obj\Debug\DrawClasses.csprojAssemblyReference.cache
+E:\ISM\Paint\DrawClasses\obj\Debug\DrawClasses.Properties.Resources.resources
+E:\ISM\Paint\DrawClasses\obj\Debug\DrawClasses.csproj.GenerateResource.cache
+E:\ISM\Paint\DrawClasses\obj\Debug\DrawClasses.csproj.CoreCompileInputs.cache
+E:\ISM\Paint\DrawClasses\obj\Debug\DrawClasses.dll
+E:\ISM\Paint\DrawClasses\obj\Debug\DrawClasses.pdb

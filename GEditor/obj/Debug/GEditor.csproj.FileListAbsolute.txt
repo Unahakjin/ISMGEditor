@@ -1,0 +1,13 @@
+E:\ISM\Paint\GEditor\bin\Debug\GEditor.exe.config
+E:\ISM\Paint\GEditor\bin\Debug\GEditor.exe
+E:\ISM\Paint\GEditor\bin\Debug\GEditor.pdb
+E:\ISM\Paint\GEditor\obj\Debug\GEditor.csprojAssemblyReference.cache
+E:\ISM\Paint\GEditor\obj\Debug\GEditor.Form1.resources
+E:\ISM\Paint\GEditor\obj\Debug\GEditor.Properties.Resources.resources
+E:\ISM\Paint\GEditor\obj\Debug\GEditor.csproj.GenerateResource.cache
+E:\ISM\Paint\GEditor\obj\Debug\GEditor.csproj.CoreCompileInputs.cache
+E:\ISM\Paint\GEditor\obj\Debug\GEditor.exe
+E:\ISM\Paint\GEditor\obj\Debug\GEditor.pdb
+E:\ISM\Paint\GEditor\bin\Debug\DrawClasses.dll
+E:\ISM\Paint\GEditor\bin\Debug\DrawClasses.pdb
+E:\ISM\Paint\GEditor\obj\Debug\GEditor.csproj.CopyComplete

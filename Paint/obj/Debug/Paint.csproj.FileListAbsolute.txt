@@ -1,0 +1,13 @@
+E:\ISM\Paint\Paint\bin\Debug\Paint.exe.config
+E:\ISM\Paint\Paint\bin\Debug\Paint.exe
+E:\ISM\Paint\Paint\bin\Debug\Paint.pdb
+E:\ISM\Paint\Paint\obj\Debug\Paint.csprojAssemblyReference.cache
+E:\ISM\Paint\Paint\obj\Debug\Paint.Paint.resources
+E:\ISM\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+E:\ISM\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.cache
+E:\ISM\Paint\Paint\obj\Debug\Paint.csproj.CoreCompileInputs.cache
+E:\ISM\Paint\Paint\obj\Debug\Paint.exe
+E:\ISM\Paint\Paint\obj\Debug\Paint.pdb
+E:\ISM\Paint\Paint\bin\Debug\DrawClasses.dll
+E:\ISM\Paint\Paint\bin\Debug\DrawClasses.pdb
+E:\ISM\Paint\Paint\obj\Debug\Paint.csproj.CopyComplete
